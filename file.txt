@@ -1,0 +1,32 @@
+"Hello",
+    "Hi there!",
+    "Hi",
+    "Hi!",
+    "How are you doing?",
+    "I'm doing great.",
+    "That is good to hear",
+    "Thank you.",
+    "You're welcome.",
+    'What is your name?', 'My name is ChatBot',
+    'Who created you?', 'Meet'
+    "Tell me about yourself",
+    "My name is Meet Parmar. I am a Second year computer engineering student at Fr crce",
+    "Contact",
+    "Email : meetparmar071@gmail.com, Mobile number : +91 8454855 Location : Mumbai, Maharashtra",
+    "Education",
+    "Bachelor of Engineering (B.E), '\n'
+    Computer Science & Engineering\n 
+    Fr. Conceicao Rodrigues College of Engineering '\n'
+    2019 - 2023 '\n'
+    CGPA: 9.2/10 '\n'
+    Senior Secondary (XII), Science
+    Vidya Vardhi College 
+    (MAHARASHTRA STATE BOARD board)
+    Percentage: 80%
+    Secondary (X)
+    Adarsh Education Society
+    (MAHARASHTRA STATE BOARF board)
+    Year of completion: 2017
+    Percentage: 100%",
+    "Projects",
+    ""
